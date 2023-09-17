@@ -13,6 +13,20 @@ export default [
     
 
     },
+    {
+      src: "./assets/sherek-meme3.mp4",
+      title: "Sherek and ESTOURADO Meme",
+      canal: "Clean Memes",
+    
+
+    },
+    {
+      src: "./assets/siu-meme.mp4",
+      title: "Cristiano Ronaldo Meme",
+      canal: "Fut memes",
+    
+
+    },
 
   
   ];
