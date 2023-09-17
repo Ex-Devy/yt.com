@@ -3,7 +3,7 @@ import { resolve } from "path";
 import { defineConfig } from "vite";
 
 export default defineConfig({
-  base: "/yt2.com/",
+  base: "/yt.com/",
   plugins: [],
   resolve: {
     /*something*/
